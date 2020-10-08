@@ -1,0 +1,7 @@
+name = "Cascadia Code"
+version = "2009.22"
+url = "https://github.com/microsoft/cascadia-code/releases/download/v2009.22/CascadiaCode-2009.22.zip"
+sha256 = "da2ac159497d31b0c6d9daa8fc390fb8252e75b4a9805ace6a2c9cccaed4932e"
+font_dir = "ttf/static"
+# All fonts are located in font_dir. Just specify there file name. Each file is seperated by a space.
+fonts = "CascadiaCode-Bold.ttf CascadiaCode-ExtraLight.ttf CascadiaCode-Light.ttf CascadiaCode-Regular.ttf CascadiaCode-SemiBold.ttf CascadiaCode-SemiLight.ttf"

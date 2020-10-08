@@ -1,0 +1,7 @@
+name = "AverageMono"
+version = "Not provided"
+url = "https://fontlibrary.org/assets/downloads/average-mono/7e3ab639a72edd95bd08537df255440d/average-mono.zip"
+sha256 = "e187485ee279c6ca4a60cbcc3dec03a5d51d680f8aa6bd10ef96d5860adeaf8b"
+font_dir = "AverageMono"
+# All fonts are located in font_dir. Just specify there file name. Each file is seperated by a space.
+fonts = "AverageMono.otf AverageMonoBold.otf AverageMonoBoldItalic.otf AverageMonoItalic.otf"
