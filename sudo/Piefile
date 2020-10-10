@@ -1,0 +1,13 @@
+# What is the fonts complete name?
+name = "Sudo"
+# What is the fonts version?
+version = "0.42"
+# Where is the location of the font archive?
+url = "https://github.com/jenskutilek/sudo-font/releases/download/v0.42/sudo.zip"
+# What is the sha256 of the downloaded file?
+sha256 = "ae7979cce3f69160293416089b91fe9f5f20bd25a288099ba61f067930df3d64"
+# What is the folder path with all of the .ttf/.otf files?
+font_dir = "sudo"
+# All fonts are located in font_dir. Just specify there file name. Each file is seperated by a space.
+fonts = "Sudo-Bold.ttf Sudo-BoldItalic.ttf Sudo-Italic.ttf Sudo-Light.ttf Sudo-LightItalic.ttf Sudo-Medium.ttf Sudo-MediumItalic.ttf Sudo-Regular.ttf Sudo-Thin.ttf Sudo-ThinItalic.ttf SudoVariable.ttf"
+# Run with pie install <font-short-name>
