@@ -1,0 +1,12 @@
+# What is the fonts complete name?
+name = "Dejavu"
+# What is the fonts version?
+version = "2.37"
+# Where is the location of the font archive?
+url = "https://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.37.zip"
+# What is the sha256 of the downloaded file?
+sha256 = "7576310b219e04159d35ff61dd4a4ec4cdba4f35c00e002a136f00e96a908b0a"
+# What is the folder path with all of the .ttf/.otf files?
+font_dir = "dejavu-fonts-ttf-2.37/ttf"
+# All fonts are located in font_dir. Just specify there file name. Each file is seperated by a space.
+fonts = "DejaVuMathTeXGyre.ttf DejaVuSans-Bold.ttf DejaVuSans-BoldOblique.ttf DejaVuSans-ExtraLight.ttf DejaVuSans-Oblique.ttf DejaVuSans.ttf DejaVuSansCondensed-Bold.ttf DejaVuSansCondensed-BoldOblique.ttf DejaVuSansCondensed-Oblique.ttf DejaVuSansCondensed.ttf DejaVuSansMono-Bold.ttf DejaVuSansMono-BoldOblique.ttf DejaVuSansMono-Oblique.ttf DejaVuSansMono.ttf DejaVuSerif-Bold.ttf DejaVuSerif-BoldItalic.ttf DejaVuSerif-Italic.ttf DejaVuSerif.ttf DejaVuSerifCondensed-Bold.ttf DejaVuSerifCondensed-BoldItalic.ttf DejaVuSerifCondensed-Italic.ttf DejaVuSerifCondensed.ttf"
