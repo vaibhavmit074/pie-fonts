@@ -1,0 +1,12 @@
+# What is the fonts complete name?
+name = "Hack"
+# What is the fonts version?
+version = "3.003"
+# Where is the location of the font archive?
+url = "https://github.com/source-foundry/Hack/releases/download/v3.003/Hack-v3.003-ttf.zip"
+# What is the sha256 of the downloaded file?
+sha256 = "0c2604631b1f055041c68a0e09ae4801acab6c5072ba2db6a822f53c3f8290ac"
+# What is the folder path with all of the .ttf/.otf files?
+font_dir = "ttf"
+# All fonts are located in font_dir. Just specify there file name. Each file is seperated by a space.
+fonts = "Hack-Bold.ttf Hack-BoldItalic.ttf Hack-Italic.ttf Hack-Regular.ttf"
